@@ -23,6 +23,5 @@ public class CategoriaResources {
 		categorias.add(cat1);
 		categorias.add(cat2);
 		return categorias;
-		
 	}
 }
